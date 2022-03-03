@@ -9,7 +9,6 @@
 
 > the what, the why, and the how of the project. 
 
-<p>&nbsp;</p>
 
 **What?**
 
@@ -17,13 +16,11 @@ The aim of the project is to create an application that combines ETL with data a
 
 In this phase, a Python package has been developed capable of reading the data, preparing it for analysis, calculating basic statistics and finally, creating visualisations to discover similarities between different artists.
 
-<p>&nbsp;</p>
 
 **Why?**
 
 We are 3 friends, music and programming fanatics, who are constantly looking for new artists and musical experiences, so not finding our own tool in use and functionality, we decided to develop our own, and we want to put at the service of the ID community this tool to discover through the analysis of similarities new musical artists and experiment together.
 
-<p>&nbsp;</p>
 
 **How?**
 
