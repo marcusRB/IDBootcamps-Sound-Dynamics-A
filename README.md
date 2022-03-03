@@ -2,15 +2,10 @@
 ## The most dynamic way to search for and compare music
 
 ![alt text](https://www.solofondos.com/wp-content/uploads/2016/04/Music-HD-Wallpapers-10.jpg)
-
-
-
-> the what, the why, and the how of the project.  
-
-  
-
+>
 ### 1. Project Description
 
+> the what, the why, and the how of the project.  
 
 **What?**
 
@@ -42,7 +37,7 @@ You can dive into this tool and discover new artists by comparing by similarity 
 'time_signature'  
 
 
-
+>
 ### 2. How to Install and Run the Project
 
 To fully enjoy the Sound Dynamics tool please download and install the libraries mentioned in the following attached file: _requirements.txt_ 
@@ -50,7 +45,7 @@ To fully enjoy the Sound Dynamics tool please download and install the libraries
 To fully enjoy the experience of this tool we highly recommend to run the complete file running  each file call _tareaN.py_ 
 
 
-
+>
 ### 3. How to use the Project
 
 This phase was developed in 8 tasks which are described below,
@@ -65,7 +60,7 @@ This phase was developed in 8 tasks which are described below,
 - **tarea8.py**: External API calls
 
 
-
+>
 ### 4. Credits
 
 Francesco Esposito as https://github.com/lupon1  
@@ -73,7 +68,7 @@ Ainhoa Molina Maroto as https://github.com/adinhodi
 Sebastian Oberti as https://github.com/SebastianOberti  
 
 
-
+>
 ### 5. License
 
 Copyright © 2021 MIT License.  
@@ -81,7 +76,7 @@ The computer software is licensed under the MIT license.
 For further details please refer to the attached file _LICENSE.txt_  
 
 
-
+>
 ### 6. Contributing
 
 Sound Dynamics A is possible thanks to IDBootcamps. We welcome all contributions to the community and are excited to welcome you aboard.
