@@ -65,7 +65,7 @@ This phase was developed in 8 tasks which are described below,
 ### 4. Credits
 
 Francesco Esposito as https://github.com/lupon1\
-Ainhoa as https://github.com/adinhodi\
+Ainhoa Molina Maroto as https://github.com/adinhodi\
 Sebastian Oberti as https://github.com/SebastianOberti
 
 
