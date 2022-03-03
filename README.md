@@ -26,18 +26,18 @@ We are 3 friends, music and programming fanatics, who are constantly looking for
 
 You can dive into this tool and discover new artists by comparing by similarity the following 12 audio features: 
 
-'danceability',  
-'energy',  
-'key',  
-'loudness',  
-'mode',  
-'speechiness',  
-'acousticness',  
-'instrumentalness',  
-'liveness',  
-'valence',  
-'tempo',  
-'time_signature'  
+1. danceability
+2. energy
+3. key
+4. loudness
+5. mode
+6. speechiness
+7. acousticness
+8. instrumentalness
+9. liveness
+10. valence
+11. tempo
+12. time_signature
 
 
 <p>&nbsp;</p>
