@@ -5,7 +5,7 @@
 
 
 
-### **the what, why, and the how of the project.*
+> the what, why, and the how of the project.
 
 
 
