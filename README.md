@@ -19,7 +19,7 @@ In this phase, a Python package has been developed capable of reading the data, 
 
 **Why?**
 
-We are 3 friends, music and programming fanatics, who are constantly looking for new artists and musical experiences, so not finding our own tool in use and functionality, we decided to develop our own, and we want to put at the service of the ID community this tool to discover through the analysis of similarities new musical artists and experiment together.
+We are 3 friends, music and coder fans, who are constantly looking for new artists and musical experiences, so not finding our own tool in use and functionality, we decided to develop our own, and we want to put at the service of the ID community this tool to discover through the analysis of similarities new musical artists and experiment together.
 
 
 **How?**
