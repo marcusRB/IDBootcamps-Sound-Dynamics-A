@@ -1,24 +1,25 @@
 # IDBootcamps-Sound-Dynamics-A
-## The most dynamic way to search for and compare music
+### The most dynamic way to search for and compare music
 
 ![alt text](https://www.solofondos.com/wp-content/uploads/2016/04/Music-HD-Wallpapers-10.jpg)
 >
+>
 ### 1. Project Description
-
+>
 > the what, the why, and the how of the project.  
-
+>
 **What?**
 
 The aim of the project is to create an application that combines ETL with data analysis to discover and/or compare musical artists.
 
 In this phase, a Python package has been developed capable of reading the data, preparing it for analysis, calculating basic statistics and finally, creating visualisations to discover similarities between different artists.
 
-
+>
 **Why?**
 
 We are 3 friends, music and programming fanatics, who are constantly looking for new artists and musical experiences, so not finding our own tool in use and functionality, we decided to develop our own, and we want to put at the service of the ID community this tool to discover through the analysis of similarities new musical artists and experiment together.
 
-
+>
 **How?**
 
 You can dive into this tool and discover new artists by comparing by similarity the following 12 audio features: 
@@ -36,7 +37,7 @@ You can dive into this tool and discover new artists by comparing by similarity 
 'tempo',  
 'time_signature'  
 
-
+>
 >
 ### 2. How to Install and Run the Project
 
@@ -44,7 +45,7 @@ To fully enjoy the Sound Dynamics tool please download and install the libraries
 
 To fully enjoy the experience of this tool we highly recommend to run the complete file running  each file call _tareaN.py_ 
 
-
+>
 >
 ### 3. How to use the Project
 
@@ -59,7 +60,7 @@ This phase was developed in 8 tasks which are described below,
 - **tarea7.py**: Function to visually compare visually using as a measure the normalised similarity - Eucledian or Cosine - of all audio features of X selected artists.
 - **tarea8.py**: External API calls
 
-
+>
 >
 ### 4. Credits
 
@@ -67,7 +68,7 @@ Francesco Esposito as https://github.com/lupon1
 Ainhoa Molina Maroto as https://github.com/adinhodi  
 Sebastian Oberti as https://github.com/SebastianOberti  
 
-
+>
 >
 ### 5. License
 
@@ -75,7 +76,7 @@ Copyright © 2021 MIT License.
 The computer software is licensed under the MIT license.  
 For further details please refer to the attached file _LICENSE.txt_  
 
-
+>
 >
 ### 6. Contributing
 
