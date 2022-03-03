@@ -5,7 +5,7 @@
 
 
 
-#### __the what, why, and the how of the project.__
+### **the what, why, and the how of the project.*
 
 
 
@@ -27,18 +27,18 @@ We are 3 friends, music and programming fanatics, who are constantly looking for
 
 You can dive into this tool and discover new artists by comparing by similarity the following 12 audio features: 
 
-'danceability',
-'energy',
-'key',
-'loudness',
-'mode',
-'speechiness',
-'acousticness',
-'instrumentalness',
-'liveness',
-'valence',
-'tempo',
-'time_signature'
+'danceability',  
+'energy',  
+'key',  
+'loudness',  
+'mode',  
+'speechiness',  
+'acousticness',  
+'instrumentalness',  
+'liveness',  
+'valence',  
+'tempo',  
+'time_signature'  
 
 
 ### 2. How to Install and Run the Project
@@ -64,16 +64,16 @@ This phase was developed in 8 tasks which are described below,
 
 ### 4. Credits
 
-Francesco Esposito as https://github.com/lupon1\
-Ainhoa Molina Maroto as https://github.com/adinhodi\
-Sebastian Oberti as https://github.com/SebastianOberti
+Francesco Esposito as https://github.com/lupon1  
+Ainhoa Molina Maroto as https://github.com/adinhodi  
+Sebastian Oberti as https://github.com/SebastianOberti  
 
 
 ### 5. License
 
-Copyright © 2021 MIT License.\
-The computer software is licensed under the MIT license.\
-For further details please refer to the attached file _LICENSE.txt_
+Copyright © 2021 MIT License.  
+The computer software is licensed under the MIT license.  
+For further details please refer to the attached file _LICENSE.txt_  
 
 
 ### 6. Contributing
