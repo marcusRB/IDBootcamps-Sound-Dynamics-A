@@ -55,14 +55,14 @@ To fully enjoy the experience of this tool we highly recommend to run the comple
 
 This phase was developed in 8 tasks which are described below,
 
-- **tarea1.py**: reading a CSV file in zip format and converting it to a denormalised dataframe
+- **tarea1.py**: read a CSV file in zip format and convert it to a denormalised dataframe.
 - **tarea2.py**: function allowing to visually measure and compare the average execution time of all functions on all files given a number of repetitions.
-- **tarea3.py**: various analyses applied to the dataframe read in task1
-- **tarea4.py**: various more advanced analyses applied to the dataframe read in task1
-- **tarea5.py**: Function to visualise through a histogram the audio feature of a selected artist
-- **tarea6.py**: Function to visually compare the audio features of two artists.
-- **tarea7.py**: Function to visually compare visually using as a measure the normalised similarity - Eucledian or Cosine - of all audio features of X selected artists.
-- **tarea8.py**: External API calls
+- **tarea3.py**: various analyses applied to the dataframe read in *tarea1.py*.
+- **tarea4.py**: various more advanced analyses applied to the dataframe read in *tarea1.py*.
+- **tarea5.py**: function to visualise through a histogram the audio feature of a selected artist.
+- **tarea6.py**: function to visually compare the audio features of two artists.
+- **tarea7.py**: function to visually compare visually using as a measure the normalised similarity - Eucledian or Cosine - of all audio features of X selected artists.
+- **tarea8.py**: external API calls.
 
 
 <p>&nbsp;</p>
