@@ -4,6 +4,13 @@
 ![alt text](https://www.solofondos.com/wp-content/uploads/2016/04/Music-HD-Wallpapers-10.jpg)
 >
 >
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 ### 1. Project Description
 >
 > the what, the why, and the how of the project.  
