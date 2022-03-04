@@ -69,9 +69,9 @@ This phase was developed in 8 tasks which are described below,
 
 ### 4. Credits
 
-Francesco Esposito as https://github.com/lupon1  
-Ainhoa Molina Maroto as https://github.com/adinhodi  
-Sebastian Oberti as https://github.com/SebastianOberti  
+Francesco Esposito as https://github.com/lupon1![GitHub followers](https://img.shields.io/github/followers/lupon1?style=social)   
+Ainhoa Molina Maroto as https://github.com/adinhodi![GitHub followers](https://img.shields.io/github/followers/adinhodi?style=social)  
+Sebastian Oberti as https://github.com/SebastianOberti![GitHub followers](https://img.shields.io/github/followers/SebastianOberti?style=social)  
 
 
 <p>&nbsp;</p>
