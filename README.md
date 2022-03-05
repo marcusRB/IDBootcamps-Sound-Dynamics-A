@@ -46,7 +46,7 @@ You can dive into this tool and discover new artists by comparing by similarity 
 
 To fully enjoy the Sound Dynamics tool please download and install the libraries mentioned in the following attached file: _requirements.txt_ 
 
-To fully enjoy the experience of this tool we highly recommend to run the complete file running  each file call _tareaN.py_ 
+To enjoy the experience of this tool we highly recommend to run the complete file running  each file call _tareaN.py_ 
 
 
 <p>&nbsp;</p>
