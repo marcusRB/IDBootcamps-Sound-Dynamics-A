@@ -1,13 +1,94 @@
 # IDBootcamps-Sound-Dynamics-A
+### The most dynamic way to search for and compare music
 
-### El contexto
-La empresa IDBootcamp Sound Dynamics os ha contratado como científicos de datos para un proyecto cuya finalidad es crear una aplicación para descubrir artistas musicales. De momento, el proyecto se encuentra en una fase inicial dónde se deben analizar los datos existentes y así ayudar a definir el producto final que más tarde implementarán los desarrolladores. Vuestro trabajo es crear un paquete de Python que lea los datos, los prepare para el análisis, calcule algunas estadísticas básicas y finalmente, cree visualizaciones para comparar diferentes artistas.
-Los datos que se utilizaran en el análisis contienen información sobre canciones, sobre los álbumes que las contienen y sobre los artistas que las han creado. A parte de detalles básicos como por ejemplo, el nombre de los artistas o el título de las canciones, los datos más interesantes que serán la base del análisis son las audio features que nos proporciona
-Spotify. Podéis ver más detalles sobre los datos proporcionados en la sección Datos.
+![alt text](https://www.solofondos.com/wp-content/uploads/2016/04/Music-HD-Wallpapers-10.jpg)
 
-### Objetivos del proyecto
-El Data Lead del proyecto ya ha avanzado el trabajo de especificación y ha diseñado una primera fase que empieza el 29/01/2022 y acaba el 28/02/2022. Durante esta fase se deben realizar las tareas descritas en la sección Tareas. Cada tarea contiene una descripción y un listado de criterios de aceptación que se tienen que cumplir para dar la tarea por finalizada. Además, se han definido algunos aspectos generales a tener en cuenta:
-● El paquete será utilizado en futuras fases del proyecto y por lo tanto, la
-implementación se tiene que hacer en ficheros planos de Python y no en Jupyter Notebooks.
-● El código se debe implementar en funciones que sean lo más generales posible, siempre que esto sea posible y tenga sentido. De esta manera, dichas funciones se podrán utilizar en fases posteriores del proyecto.
-● El paquete debe incluir el correspondiente código organizado por bloques lógicos (separado en módulos y organizado por funcionalidad), así como documentación (docstrings) y tests. Además, se deberán incluir los correspondientes archivos de documentación de alto nivel (README), así como los archivos de licencia y dependencias (requirements.txt). Tener un archivo setup.py es opcional.
+<p>&nbsp;</p>
+
+### 1. Project Description
+
+> the what, the why, and the how of the project. 
+
+
+**What?**
+
+The aim of the project is to create an application that combines ETL with data analysis to discover and/or compare musical artists.
+
+In this phase, a Python package has been developed capable of reading the data, preparing it for analysis, calculating basic statistics and finally, creating visualisations to discover similarities between different artists.
+
+
+**Why?**
+
+We are 3 friends, music and coder fans, who are constantly looking for new artists and musical experiences, so not finding our own tool in use and functionality, we decided to develop our own, and we want to put at the service of the ID community this tool to discover through the analysis of similarities new musical artists and experiment together.
+
+
+**How?**
+
+You can dive into this tool and discover new artists by comparing by similarity the following 12 audio features: 
+
+1. danceability
+2. energy
+3. key
+4. loudness
+5. mode
+6. speechiness
+7. acousticness
+8. instrumentalness
+9. liveness
+10. valence
+11. tempo
+12. time_signature
+
+
+<p>&nbsp;</p>
+
+### 2. How to Install and Run the Project
+
+To fully enjoy the Sound Dynamics tool please download and install the libraries mentioned in the following attached file: _requirements.txt_ 
+
+To enjoy the experience of this tool we highly recommend to run the complete file running  each file call _tareaN.py_ 
+
+
+<p>&nbsp;</p>
+
+### 3. How to use the Project
+
+This phase was developed in 8 tasks which are described below,
+
+- **tarea1.py**: read a CSV file in zip format and convert it to a denormalised dataframe.
+- **tarea2.py**: function allowing to visually measure and compare the average execution time of all functions on all files given a number of repetitions.
+- **tarea3.py**: various analyses applied to the dataframe read in *tarea1.py*.
+- **tarea4.py**: various more advanced analyses applied to the dataframe read in *tarea1.py*.
+- **tarea5.py**: function to visualise through a histogram the audio feature of a selected artist.
+- **tarea6.py**: function to visually compare the audio features of two artists.
+- **tarea7.py**: function to visually compare visually using as a measure the normalised similarity - Eucledian or Cosine - of all audio features of X selected artists.
+- **tarea8.py**: external API calls.
+
+
+<p>&nbsp;</p>
+
+### 4. Credits
+
+Francesco Esposito as https://github.com/lupon1
+![GitHub followers](https://img.shields.io/github/followers/lupon1?style=social)   
+Ainhoa Molina Maroto as https://github.com/adinhodi
+![GitHub followers](https://img.shields.io/github/followers/adinhodi?style=social)  
+Sebastian Oberti as https://github.com/SebastianOberti
+![GitHub followers](https://img.shields.io/github/followers/SebastianOberti?style=social)  
+
+
+<p>&nbsp;</p>
+
+### 5. License
+
+Copyright © 2021 MIT License.  
+The computer software is licensed under the MIT license.  
+For further details please refer to the attached file _LICENSE.txt_  
+
+
+<p>&nbsp;</p>
+
+### 6. Contributing
+
+Sound Dynamics A is possible thanks to IDBootcamps. We welcome all contributions to the community and are excited to welcome you aboard.
+If you find a bug and have confirmed that someone else is facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
